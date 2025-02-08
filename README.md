@@ -2,7 +2,7 @@
 
 This is a Python-based tool to check the strength of passwords and verify if they have been exposed in data breaches.
 
-## Features
+## Features of projects
 - Checks password strength based on length, complexity, and common patterns.
 - Uses the **Have I Been Pwned API** to check if the password has been compromised.
 
